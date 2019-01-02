@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/cero"
+        android:duration="50"/>
+    <item android:drawable="@drawable/two"
+        android:duration="50"/>
+    <item android:drawable="@drawable/four"
+        android:duration="50"/>
+    <item android:drawable="@drawable/eighthteen"
+        android:duration="50"/>
+    <item android:drawable="@drawable/fourteen"
+        android:duration="50"/>
+    <item android:drawable="@drawable/eighty_three"
+        android:duration="50"/>
+    <item android:drawable="@drawable/hundred"
+        android:duration="50"/>
+    <item android:drawable="@drawable/thirty_six"
+        android:duration="50"/>
+    <item android:drawable="@drawable/thirty_seven"
+        android:duration="50"/>
+    <item android:drawable="@drawable/twenty_five"
+        android:duration="50"/>
+</animation-list>
